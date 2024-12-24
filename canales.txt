@@ -1,6 +1,8 @@
 Canal.Sky.Sports.16.sv,Sky Sports LaLiga,https://imagenes.gatotv.com/logos/canales/claros/sky_sports_16.png 
-Canal.TUDN.(Estados.Unidos).sv,TUDN USA
-Canal.TUDN.(MÃ©xico).sv,TUDN México
-Canal.TyC.Sports.ar,TyC Sports
-SuperSport LaLiga.za, SuperSport LaLiga
-DIRECTV SPORTS 2, DIRECTV SPORTS 2
+Canal.TUDN.(Estados.Unidos).sv,TUDN USA,https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png
+Canal.TUDN.(MÃ©xico).sv,TUDN México,https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png
+Canal.TyC.Sports.ar,TyC Sports,https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png
+SuperSport LaLiga.za, SuperSport LaLiga,https://images.supersport.com/media/nqckjmdw/la-liga.png?width=64&quality=90&format=webp
+DIRECTV SPORTS,DIRECTV SPORTS,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png
+DIRECTV SPORTS +,DIRECTV SPORTS +,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png
+DIRECTV SPORTS 2, DIRECTV SPORTS 2,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png
