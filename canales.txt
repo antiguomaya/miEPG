@@ -3,3 +3,4 @@ Canal.TUDN.(Estados.Unidos).sv,TUDN USA
 Canal.TUDN.(MÃ©xico).sv,TUDN México
 Canal.TyC.Sports.ar,TyC Sports
 SuperSport LaLiga.za, SuperSport LaLiga
+DIRECTV SPORTS 2, DIRECTV SPORTS 2
