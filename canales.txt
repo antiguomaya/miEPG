@@ -1,4 +1,4 @@
 Canal.Sky.Sports.16.sv,Sky Sports LaLiga,https://imagenes.gatotv.com/logos/canales/claros/sky_sports_16.png 
 Canal.TUDN.(Estados.Unidos).sv, TUDN USA
 Canal.TUDN.(MÃ©xico).sv, TUDN México
-Canal.TyC.Sports.ar, TyC Sports
+Canal.TyC.Sports.ar, TyC Sports AR
