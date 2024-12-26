@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 25/12/2024 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 26/12/2024 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="TyC Sports">
     <display-name>TyC Sports</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png" />
@@ -20,54 +20,6 @@
     <display-name> DIRECTV SPORTS 2</display-name>
     <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" />
   </channel>
-  <programme start="20241224020000 -0600" stop="20241224040000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241224040000 -0600" stop="20241224050000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241224050000 -0600" stop="20241224060000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241224060000 -0600" stop="20241224063000 -0600" channel="TyC Sports">
-    <title lang="es">Boxeo de Primera</title>
-  </programme>
-  <programme start="20241224063000 -0600" stop="20241224080000 -0600" channel="TyC Sports">
-    <title lang="es">Show nacional</title>
-  </programme>
-  <programme start="20241224080000 -0600" stop="20241224100000 -0600" channel="TyC Sports">
-    <title lang="es">Racing Club vs. Boca</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241224100000 -0600" stop="20241224120000 -0600" channel="TyC Sports">
-    <title lang="es">Líbero</title>
-  </programme>
-  <programme start="20241224120000 -0600" stop="20241224140000 -0600" channel="TyC Sports">
-    <title lang="es">Boca vs. CA River Plate</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241224140000 -0600" stop="20241224160000 -0600" channel="TyC Sports">
-    <title lang="es">Racing Club vs. River</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241224160000 -0600" stop="20241224180000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241224180000 -0600" stop="20241224200000 -0600" channel="TyC Sports">
-    <title lang="es">Vélez Sarsfield vs. Huracán</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241224200000 -0600" stop="20241224220000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241224220000 -0600" stop="20241225000000 -0600" channel="TyC Sports">
-    <title lang="es">Club Atlético Sarmiento La Banda vs. Los Andes</title>
-    <sub-title lang="es">Fútbol argentino Primera B</sub-title>
-  </programme>
-  <programme start="20241225000000 -0600" stop="20241225020000 -0600" channel="TyC Sports">
-    <title lang="es">Rosario Central vs. Newell's</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
   <programme start="20241225020000 -0600" stop="20241225030000 -0600" channel="TyC Sports">
     <title lang="es">Club Miami</title>
   </programme>
@@ -188,35 +140,54 @@
     <title lang="es">Anuario 2024</title>
     <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
-<programme start="20241223013000 +0000" stop="20241223033000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223033000 +0000" stop="20241223033500 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223033500 +0000" stop="20241223034000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223034000 +0000" stop="20241223034500 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223034500 +0000" stop="20241223035000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223035000 +0000" stop="20241223035500 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223035500 +0000" stop="20241223040000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223040000 +0000" stop="20241223040500 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223040500 +0000" stop="20241223041000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223041000 +0000" stop="20241223041500 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223041500 +0000" stop="20241223042000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223042000 +0000" stop="20241223042500 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223042500 +0000" stop="20241223043000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223043000 +0000" stop="20241223063000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223063000 +0000" stop="20241223083000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223083000 +0000" stop="20241223103000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223103000 +0000" stop="20241223123000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223123000 +0000" stop="20241223130000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223130000 +0000" stop="20241223140000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223140000 +0000" stop="20241223143000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223143000 +0000" stop="20241223160000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223160000 +0000" stop="20241223170000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223170000 +0000" stop="20241223173000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223173000 +0000" stop="20241223180000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223180000 +0000" stop="20241223193000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223193000 +0000" stop="20241223200000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223200000 +0000" stop="20241223220000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223220000 +0000" stop="20241223230000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223230000 +0000" stop="20241224003000 +0000" channel=" SuperSport LaLiga">
+  <programme start="20241227200000 -0600" stop="20241227220000 -0600" channel="TyC Sports">
+    <title lang="es">Tobías Reyes vs. Félix Sánchez</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
+  </programme>
+  <programme start="20241227220000 -0600" stop="20241228000000 -0600" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20241228000000 -0600" stop="20241228002000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20241228002000 -0600" stop="20241228023000 -0600" channel="TyC Sports">
+    <title lang="es">Boca vs. Independiente</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20241228023000 -0600" stop="20241228043000 -0600" channel="TyC Sports">
+    <title lang="es">Racing Club vs. River</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20241228043000 -0600" stop="20241228050000 -0600" channel="TyC Sports">
+    <title lang="es">Tennis: United Cup 2024</title>
+  </programme>
+  <programme start="20241228050000 -0600" stop="20241228060000 -0600" channel="TyC Sports">
+    <title lang="es">Uno Contra Uno</title>
+  </programme>
+  <programme start="20241228060000 -0600" stop="20241228070000 -0600" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20241228070000 -0600" stop="20241228082500 -0600" channel="TyC Sports">
+    <title lang="es">#Bonadeo</title>
+  </programme>
+  <programme start="20241228082500 -0600" stop="20241228103000 -0600" channel="TyC Sports">
+    <title lang="es">Baloncesto Argentino Liga Nacional</title>
+  </programme>
+  <programme start="20241228103000 -0600" stop="20241228120000 -0600" channel="TyC Sports">
+    <title lang="es">Tenis ATP Challenger Tour</title>
+  </programme>
+  <programme start="20241228120000 -0600" stop="20241228135500 -0600" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20241228135500 -0600" stop="20241228160000 -0600" channel="TyC Sports">
+    <title lang="es">Fútbol argentino Primera Nacional</title>
+  </programme>
+  <programme start="20241228160000 -0600" stop="20241228165500 -0600" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20241228165500 -0600" stop="20241228190000 -0600" channel="TyC Sports">
+    <title lang="es">Fútbol Conmebol Copa Libertadores Femenina</title>
+  </programme>
 <programme start="20241224003000 +0000" stop="20241224013000 +0000" channel=" SuperSport LaLiga">
 <programme start="20241224013000 +0000" stop="20241224033000 +0000" channel=" SuperSport LaLiga">
 <programme start="20241224033000 +0000" stop="20241224053000 +0000" channel=" SuperSport LaLiga">
@@ -324,24 +295,43 @@
 <programme start="20241227063000 +0000" stop="20241227070000 +0000" channel=" SuperSport LaLiga">
 <programme start="20241227070000 +0000" stop="20241227073000 +0000" channel=" SuperSport LaLiga">
 <programme start="20241227073000 +0000" stop="20241227083000 +0000" channel=" SuperSport LaLiga">
-<programme start="20241223010000 +0000" stop="20241223040000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223040000 +0000" stop="20241223043000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223043000 +0000" stop="20241223053000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223053000 +0000" stop="20241223070000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223070000 +0000" stop="20241223090000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223090000 +0000" stop="20241223110000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223110000 +0000" stop="20241223113000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223113000 +0000" stop="20241223123000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223123000 +0000" stop="20241223143000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223143000 +0000" stop="20241223150000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223150000 +0000" stop="20241223160000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223160000 +0000" stop="20241223163000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223163000 +0000" stop="20241223193000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223193000 +0000" stop="20241223203000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223203000 +0000" stop="20241223213000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223213000 +0000" stop="20241223230000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223230000 +0000" stop="20241224000000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241224000000 +0000" stop="20241224030000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227083000 +0000" stop="20241227090000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227090000 +0000" stop="20241227100000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227100000 +0000" stop="20241227103000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227103000 +0000" stop="20241227110000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227110000 +0000" stop="20241227113000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227113000 +0000" stop="20241227120000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227120000 +0000" stop="20241227123000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227123000 +0000" stop="20241227130000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227130000 +0000" stop="20241227131500 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227131500 +0000" stop="20241227133000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227133000 +0000" stop="20241227140000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227140000 +0000" stop="20241227143000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227143000 +0000" stop="20241227150000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227150000 +0000" stop="20241227153000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227153000 +0000" stop="20241227160000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227160000 +0000" stop="20241227163000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227163000 +0000" stop="20241227170000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227170000 +0000" stop="20241227173000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227173000 +0000" stop="20241227180000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227180000 +0000" stop="20241227183000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227183000 +0000" stop="20241227190000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227190000 +0000" stop="20241227193000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227193000 +0000" stop="20241227200000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227200000 +0000" stop="20241227220000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227220000 +0000" stop="20241227223000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227223000 +0000" stop="20241227230000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241227230000 +0000" stop="20241228010000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228010000 +0000" stop="20241228013000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228013000 +0000" stop="20241228033000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228033000 +0000" stop="20241228053000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228053000 +0000" stop="20241228054500 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228054500 +0000" stop="20241228060000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228060000 +0000" stop="20241228061500 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228061500 +0000" stop="20241228063000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228063000 +0000" stop="20241228064500 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228064500 +0000" stop="20241228070000 +0000" channel=" SuperSport LaLiga">
+<programme start="20241228070000 +0000" stop="20241228073000 +0000" channel=" SuperSport LaLiga">
 <programme start="20241224030000 +0000" stop="20241224033000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241224033000 +0000" stop="20241224040000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241224040000 +0000" stop="20241224043000 +0000" channel="DIRECTV SPORTS">
@@ -394,17 +384,14 @@
 <programme start="20241226113000 +0000" stop="20241226123000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241226123000 +0000" stop="20241226143000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241226143000 +0000" stop="20241226150000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241226150000 +0000" stop="20241226160000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241226160000 +0000" stop="20241226163000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241226163000 +0000" stop="20241226183000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241226183000 +0000" stop="20241226190000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241226190000 +0000" stop="20241226193000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241226193000 +0000" stop="20241226210000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241226210000 +0000" stop="20241226213000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241226150000 +0000" stop="20241226170000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241226170000 +0000" stop="20241226173000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241226173000 +0000" stop="20241226183000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241226183000 +0000" stop="20241226203000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241226203000 +0000" stop="20241226213000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241226213000 +0000" stop="20241226230000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241226230000 +0000" stop="20241227000000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241227000000 +0000" stop="20241227013000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241227013000 +0000" stop="20241227020000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227000000 +0000" stop="20241227020000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241227020000 +0000" stop="20241227030000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241227030000 +0000" stop="20241227033000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241227033000 +0000" stop="20241227040000 +0000" channel="DIRECTV SPORTS">
@@ -412,19 +399,27 @@
 <programme start="20241227043000 +0000" stop="20241227053000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241227053000 +0000" stop="20241227070000 +0000" channel="DIRECTV SPORTS">
 <programme start="20241227070000 +0000" stop="20241227090000 +0000" channel="DIRECTV SPORTS">
-<programme start="20241223013000 +0000" stop="20241223023000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223023000 +0000" stop="20241223040000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223040000 +0000" stop="20241223070000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223070000 +0000" stop="20241223090000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223090000 +0000" stop="20241223110000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223130000 +0000" stop="20241223143000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223143000 +0000" stop="20241223153000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223153000 +0000" stop="20241223173000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223173000 +0000" stop="20241223193000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223193000 +0000" stop="20241223203000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223203000 +0000" stop="20241223223000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223223000 +0000" stop="20241224003000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227090000 +0000" stop="20241227110000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227110000 +0000" stop="20241227120000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227120000 +0000" stop="20241227140000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227143000 +0000" stop="20241227163000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227163000 +0000" stop="20241227183000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227193000 +0000" stop="20241227203000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227203000 +0000" stop="20241227230000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228013000 +0000" stop="20241228020000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228030000 +0000" stop="20241228060000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228060000 +0000" stop="20241228070000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241228070000 +0000" stop="20241228090000 +0000" channel="DIRECTV SPORTS">
+<programme start="20241224003000 +0000" stop="20241224010000 +0000" channel="DIRECTV SPORTS +" channel="DIRECTV SPORTS">
 <programme start="20241224003000 +0000" stop="20241224010000 +0000" channel="DIRECTV SPORTS +">
 <programme start="20241224010000 +0000" stop="20241224020000 +0000" channel="DIRECTV SPORTS +">
 <programme start="20241224020000 +0000" stop="20241224023000 +0000" channel="DIRECTV SPORTS +">
@@ -479,24 +474,22 @@
 <programme start="20241227023000 +0000" stop="20241227040000 +0000" channel="DIRECTV SPORTS +">
 <programme start="20241227040000 +0000" stop="20241227070000 +0000" channel="DIRECTV SPORTS +">
 <programme start="20241227070000 +0000" stop="20241227090000 +0000" channel="DIRECTV SPORTS +">
-<programme start="20241223013000 +0000" stop="20241223023000 +0000" channel="DIRECTV SPORTS + HD" channel="DIRECTV SPORTS +">
-<programme start="20241223010000 +0000" stop="20241223030000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223030000 +0000" stop="20241223040000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223040000 +0000" stop="20241223060000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223060000 +0000" stop="20241223063000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223063000 +0000" stop="20241223070000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223070000 +0000" stop="20241223090000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223090000 +0000" stop="20241223113000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223113000 +0000" stop="20241223120000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223120000 +0000" stop="20241223140000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223140000 +0000" stop="20241223143000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223143000 +0000" stop="20241223153000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223153000 +0000" stop="20241223160000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223160000 +0000" stop="20241223180000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223180000 +0000" stop="20241223203000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223203000 +0000" stop="20241223223000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223223000 +0000" stop="20241223230000 +0000" channel=" DIRECTV SPORTS 2">
-<programme start="20241223230000 +0000" stop="20241224010000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227090000 +0000" stop="20241227110000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227110000 +0000" stop="20241227120000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227120000 +0000" stop="20241227150000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227150000 +0000" stop="20241227173000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227180000 +0000" stop="20241227200000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241227210000 +0000" stop="20241228000000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241228003000 +0000" stop="20241228023000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241228023000 +0000" stop="20241228040000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241228050000 +0000" stop="20241228070000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241228070000 +0000" stop="20241228090000 +0000" channel="DIRECTV SPORTS +">
+<programme start="20241224003000 +0000" stop="20241224010000 +0000" channel="DIRECTV SPORTS + HD" channel="DIRECTV SPORTS +">
 <programme start="20241224010000 +0000" stop="20241224030000 +0000" channel=" DIRECTV SPORTS 2">
 <programme start="20241224030000 +0000" stop="20241224040000 +0000" channel=" DIRECTV SPORTS 2">
 <programme start="20241224040000 +0000" stop="20241224060000 +0000" channel=" DIRECTV SPORTS 2">
@@ -550,4 +543,21 @@
 <programme start="20241227040000 +0000" stop="20241227063000 +0000" channel=" DIRECTV SPORTS 2">
 <programme start="20241227063000 +0000" stop="20241227070000 +0000" channel=" DIRECTV SPORTS 2">
 <programme start="20241227070000 +0000" stop="20241227090000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227090000 +0000" stop="20241227113000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227113000 +0000" stop="20241227120000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227120000 +0000" stop="20241227140000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227140000 +0000" stop="20241227143000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227143000 +0000" stop="20241227153000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227153000 +0000" stop="20241227160000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227160000 +0000" stop="20241227190000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227190000 +0000" stop="20241227213000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241227213000 +0000" stop="20241228000000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241228000000 +0000" stop="20241228003000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241228003000 +0000" stop="20241228010000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241228010000 +0000" stop="20241228030000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241228030000 +0000" stop="20241228040000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241228040000 +0000" stop="20241228060000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241228060000 +0000" stop="20241228063000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241228063000 +0000" stop="20241228090000 +0000" channel=" DIRECTV SPORTS 2">
+<programme start="20241224010000 +0000" stop="20241224030000 +0000" channel="DIRECTV SPORTS 2 HD" channel=" DIRECTV SPORTS 2">
 </tv>
