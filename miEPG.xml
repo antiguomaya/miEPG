@@ -1,64 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/12/2024 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 30/12/2024 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="TyC Sports">
     <display-name>TyC Sports</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png" />
   </channel>
-  <programme start="20241228002000 -0600" stop="20241228023000 -0600" channel="TyC Sports">
-    <title lang="es">Boca vs. Independiente</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241228023000 -0600" stop="20241228043000 -0600" channel="TyC Sports">
-    <title lang="es">Racing Club vs. River</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241228043000 -0600" stop="20241228050000 -0600" channel="TyC Sports">
-    <title lang="es">Tennis: United Cup 2024</title>
-  </programme>
-  <programme start="20241228050000 -0600" stop="20241228060000 -0600" channel="TyC Sports">
-    <title lang="es">Uno Contra Uno</title>
-  </programme>
-  <programme start="20241228060000 -0600" stop="20241228070000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241228070000 -0600" stop="20241228082500 -0600" channel="TyC Sports">
-    <title lang="es">#Bonadeo</title>
-  </programme>
-  <programme start="20241228082500 -0600" stop="20241228103000 -0600" channel="TyC Sports">
-    <title lang="es">Baloncesto Argentino Liga Nacional</title>
-  </programme>
-  <programme start="20241228103000 -0600" stop="20241228120000 -0600" channel="TyC Sports">
-    <title lang="es">Tenis ATP Challenger Tour</title>
-  </programme>
-  <programme start="20241228120000 -0600" stop="20241228135500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241228135500 -0600" stop="20241228160000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
-  </programme>
-  <programme start="20241228160000 -0600" stop="20241228165500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241228165500 -0600" stop="20241228190000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol Conmebol Copa Libertadores Femenina</title>
-  </programme>
-  <programme start="20241228190000 -0600" stop="20241228220000 -0600" channel="TyC Sports">
-    <title lang="es">Boxeo de Primera</title>
-  </programme>
-  <programme start="20241228220000 -0600" stop="20241228223000 -0600" channel="TyC Sports">
-    <title lang="es">Boxeo de Primera</title>
-  </programme>
-  <programme start="20241228223000 -0600" stop="20241229003000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241229003000 -0600" stop="20241229013000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241229013000 -0600" stop="20241229020000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241229020000 -0600" stop="20241229030000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229010000 -0600" stop="20241229030000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
   </programme>
   <programme start="20241229030000 -0600" stop="20241229040000 -0600" channel="TyC Sports">
     <title lang="es">Uno Contra Uno</title>
@@ -69,127 +16,135 @@
   <programme start="20241229043000 -0600" stop="20241229050000 -0600" channel="TyC Sports">
     <title lang="es">Noveno Chukker</title>
   </programme>
-  <programme start="20241229050000 -0600" stop="20241229070000 -0600" channel="TyC Sports">
+  <programme start="20241229050000 -0600" stop="20241229060000 -0600" channel="TyC Sports">
     <title lang="es">Carburando Categorías</title>
+    <sub-title lang="es">Anuario Top Race V6 2024</sub-title>
   </programme>
-  <programme start="20241229070000 -0600" stop="20241229085500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229060000 -0600" stop="20241229070000 -0600" channel="TyC Sports">
+    <title lang="es">Carburando Categorías</title>
+    <sub-title lang="es">Anuario TC 2000 2024</sub-title>
   </programme>
-  <programme start="20241229085500 -0600" stop="20241229103000 -0600" channel="TyC Sports">
-    <title lang="es">Tenis ATP Challenger Tour</title>
+  <programme start="20241229070000 -0600" stop="20241229120000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229103000 -0600" stop="20241229115500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229120000 -0600" stop="20241229170000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229115500 -0600" stop="20241229140000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
+  <programme start="20241229170000 -0600" stop="20241229172000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229140000 -0600" stop="20241229161000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera B</title>
+  <programme start="20241229172000 -0600" stop="20241229193000 -0600" channel="TyC Sports">
+    <title lang="es">Lanús vs. Boca</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
   </programme>
-  <programme start="20241229161000 -0600" stop="20241229180000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
+  <programme start="20241229193000 -0600" stop="20241229213000 -0600" channel="TyC Sports">
+    <title lang="es">CA River Plate vs. Banfield</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
   </programme>
-  <programme start="20241229180000 -0600" stop="20241229200000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229213000 -0600" stop="20241229230000 -0600" channel="TyC Sports">
+    <title lang="es">Show nacional</title>
   </programme>
-  <programme start="20241229200000 -0600" stop="20241229220000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229230000 -0600" stop="20241230020000 -0600" channel="TyC Sports">
+    <title lang="es">Promocional</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
-  <programme start="20241229220000 -0600" stop="20241229223000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando PGM</title>
+  <programme start="20241230020000 -0600" stop="20241230050000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229223000 -0600" stop="20241230003000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230050000 -0600" stop="20241230090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230003000 -0600" stop="20241230010000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230090000 -0600" stop="20241230130000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230010000 -0600" stop="20241230030000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230130000 -0600" stop="20241230170000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230030000 -0600" stop="20241230050000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230170000 -0600" stop="20241230210000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230050000 -0600" stop="20241230070000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230210000 -0600" stop="20241231010000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230070000 -0600" stop="20241230080000 -0600" channel="TyC Sports">
-    <title lang="es">Superfútbol</title>
+  <programme start="20241231010000 -0600" stop="20241231030000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230080000 -0600" stop="20241230090000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241231030000 -0600" stop="20241231050000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230090000 -0600" stop="20241230110000 -0600" channel="TyC Sports">
-    <title lang="es">Dale al medio</title>
+  <programme start="20241231050000 -0600" stop="20241231090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230110000 -0600" stop="20241230130000 -0600" channel="TyC Sports">
+  <programme start="20241231090000 -0600" stop="20241231130000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231130000 -0600" stop="20241231170000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231170000 -0600" stop="20241231200000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231200000 -0600" stop="20241231220000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231220000 -0600" stop="20250101000000 -0600" channel="TyC Sports">
+    <title lang="es">Independiente vs. Gimnasia (LP)</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20250101000000 -0600" stop="20250101020000 -0600" channel="TyC Sports">
+    <title lang="es">Rosario Central vs. San Lorenzo</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20250101020000 -0600" stop="20250101040000 -0600" channel="TyC Sports">
+    <title lang="es">Belgrano vs. Instituto</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20250101040000 -0600" stop="20250101060000 -0600" channel="TyC Sports">
     <title lang="es">Líbero</title>
   </programme>
-  <programme start="20241230130000 -0600" stop="20241230160000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20250101060000 -0600" stop="20250101080000 -0600" channel="TyC Sports">
+    <title lang="es">Nueva Chicago vs. Quilmes</title>
+    <sub-title lang="es">Fútbol argentino Primera Nacional</sub-title>
   </programme>
-  <programme start="20241230160000 -0600" stop="20241230180000 -0600" channel="TyC Sports">
-    <title lang="es">Presión alta</title>
+  <programme start="20250101080000 -0600" stop="20250101100000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230180000 -0600" stop="20241230200000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
+  <programme start="20250101100000 -0600" stop="20250101140000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228002000 -0600" stop="20241228023000 -0600" channel="TyC Sports">
-    <title lang="es">Boca vs. Independiente</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  <programme start="20250101140000 -0600" stop="20250101180000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228023000 -0600" stop="20241228043000 -0600" channel="TyC Sports">
-    <title lang="es">Racing Club vs. River</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  <programme start="20250101180000 -0600" stop="20250101210000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228043000 -0600" stop="20241228050000 -0600" channel="TyC Sports">
-    <title lang="es">Tennis: United Cup 2024</title>
+  <programme start="20250101210000 -0600" stop="20250101220000 -0600" channel="TyC Sports">
+    <title lang="es">Grandes peleas: Acuña vs. Marcos</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
-  <programme start="20241228050000 -0600" stop="20241228060000 -0600" channel="TyC Sports">
-    <title lang="es">Uno Contra Uno</title>
+  <programme start="20250101220000 -0600" stop="20250102020000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228060000 -0600" stop="20241228070000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20250102020000 -0600" stop="20250102050000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228070000 -0600" stop="20241228082500 -0600" channel="TyC Sports">
-    <title lang="es">#Bonadeo</title>
+  <programme start="20250102050000 -0600" stop="20250102090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228082500 -0600" stop="20241228103000 -0600" channel="TyC Sports">
-    <title lang="es">Baloncesto Argentino Liga Nacional</title>
+  <programme start="20250102090000 -0600" stop="20250102100000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228103000 -0600" stop="20241228120000 -0600" channel="TyC Sports">
-    <title lang="es">Tenis ATP Challenger Tour</title>
+  <programme start="20250102100000 -0600" stop="20250102140000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228120000 -0600" stop="20241228135500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20250102140000 -0600" stop="20250102180000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228135500 -0600" stop="20241228160000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
+  <programme start="20250102180000 -0600" stop="20250102210000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241228160000 -0600" stop="20241228165500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241228165500 -0600" stop="20241228190000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol Conmebol Copa Libertadores Femenina</title>
-  </programme>
-  <programme start="20241228190000 -0600" stop="20241228220000 -0600" channel="TyC Sports">
-    <title lang="es">Boxeo de Primera</title>
-  </programme>
-  <programme start="20241228220000 -0600" stop="20241228223000 -0600" channel="TyC Sports">
-    <title lang="es">Boxeo de Primera</title>
-  </programme>
-  <programme start="20241228223000 -0600" stop="20241229003000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241229003000 -0600" stop="20241229013000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241229013000 -0600" stop="20241229020000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
-  </programme>
-  <programme start="20241229020000 -0600" stop="20241229030000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229010000 -0600" stop="20241229030000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
   </programme>
   <programme start="20241229030000 -0600" stop="20241229040000 -0600" channel="TyC Sports">
     <title lang="es">Uno Contra Uno</title>
@@ -200,70 +155,131 @@
   <programme start="20241229043000 -0600" stop="20241229050000 -0600" channel="TyC Sports">
     <title lang="es">Noveno Chukker</title>
   </programme>
-  <programme start="20241229050000 -0600" stop="20241229070000 -0600" channel="TyC Sports">
+  <programme start="20241229050000 -0600" stop="20241229060000 -0600" channel="TyC Sports">
     <title lang="es">Carburando Categorías</title>
+    <sub-title lang="es">Anuario Top Race V6 2024</sub-title>
   </programme>
-  <programme start="20241229070000 -0600" stop="20241229085500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229060000 -0600" stop="20241229070000 -0600" channel="TyC Sports">
+    <title lang="es">Carburando Categorías</title>
+    <sub-title lang="es">Anuario TC 2000 2024</sub-title>
   </programme>
-  <programme start="20241229085500 -0600" stop="20241229103000 -0600" channel="TyC Sports">
-    <title lang="es">Tenis ATP Challenger Tour</title>
+  <programme start="20241229070000 -0600" stop="20241229120000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229103000 -0600" stop="20241229115500 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229120000 -0600" stop="20241229170000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229115500 -0600" stop="20241229140000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
+  <programme start="20241229170000 -0600" stop="20241229172000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229140000 -0600" stop="20241229161000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera B</title>
+  <programme start="20241229172000 -0600" stop="20241229193000 -0600" channel="TyC Sports">
+    <title lang="es">Lanús vs. Boca</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
   </programme>
-  <programme start="20241229161000 -0600" stop="20241229180000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
+  <programme start="20241229193000 -0600" stop="20241229213000 -0600" channel="TyC Sports">
+    <title lang="es">CA River Plate vs. Banfield</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
   </programme>
-  <programme start="20241229180000 -0600" stop="20241229200000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229213000 -0600" stop="20241229230000 -0600" channel="TyC Sports">
+    <title lang="es">Show nacional</title>
   </programme>
-  <programme start="20241229200000 -0600" stop="20241229220000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241229230000 -0600" stop="20241230020000 -0600" channel="TyC Sports">
+    <title lang="es">Promocional</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
-  <programme start="20241229220000 -0600" stop="20241229223000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando PGM</title>
+  <programme start="20241230020000 -0600" stop="20241230050000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241229223000 -0600" stop="20241230003000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230050000 -0600" stop="20241230090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230003000 -0600" stop="20241230010000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230090000 -0600" stop="20241230130000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230010000 -0600" stop="20241230030000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230130000 -0600" stop="20241230170000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230030000 -0600" stop="20241230050000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230170000 -0600" stop="20241230210000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230050000 -0600" stop="20241230070000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241230210000 -0600" stop="20241231010000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230070000 -0600" stop="20241230080000 -0600" channel="TyC Sports">
-    <title lang="es">Superfútbol</title>
+  <programme start="20241231010000 -0600" stop="20241231030000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230080000 -0600" stop="20241230090000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20241231030000 -0600" stop="20241231050000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230090000 -0600" stop="20241230110000 -0600" channel="TyC Sports">
-    <title lang="es">Dale al medio</title>
+  <programme start="20241231050000 -0600" stop="20241231090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230110000 -0600" stop="20241230130000 -0600" channel="TyC Sports">
+  <programme start="20241231090000 -0600" stop="20241231130000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231130000 -0600" stop="20241231170000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231170000 -0600" stop="20241231200000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231200000 -0600" stop="20241231220000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20241231220000 -0600" stop="20250101000000 -0600" channel="TyC Sports">
+    <title lang="es">Independiente vs. Gimnasia (LP)</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20250101000000 -0600" stop="20250101020000 -0600" channel="TyC Sports">
+    <title lang="es">Rosario Central vs. San Lorenzo</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20250101020000 -0600" stop="20250101040000 -0600" channel="TyC Sports">
+    <title lang="es">Belgrano vs. Instituto</title>
+    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
+  </programme>
+  <programme start="20250101040000 -0600" stop="20250101060000 -0600" channel="TyC Sports">
     <title lang="es">Líbero</title>
   </programme>
-  <programme start="20241230130000 -0600" stop="20241230160000 -0600" channel="TyC Sports">
-    <title lang="es">Sportia</title>
+  <programme start="20250101060000 -0600" stop="20250101080000 -0600" channel="TyC Sports">
+    <title lang="es">Nueva Chicago vs. Quilmes</title>
+    <sub-title lang="es">Fútbol argentino Primera Nacional</sub-title>
   </programme>
-  <programme start="20241230160000 -0600" stop="20241230180000 -0600" channel="TyC Sports">
-    <title lang="es">Presión alta</title>
+  <programme start="20250101080000 -0600" stop="20250101100000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20241230180000 -0600" stop="20241230200000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera Nacional</title>
+  <programme start="20250101100000 -0600" stop="20250101140000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250101140000 -0600" stop="20250101180000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250101180000 -0600" stop="20250101210000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250101210000 -0600" stop="20250101220000 -0600" channel="TyC Sports">
+    <title lang="es">Grandes peleas: Acuña vs. Marcos</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
+  </programme>
+  <programme start="20250101220000 -0600" stop="20250102020000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250102020000 -0600" stop="20250102050000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250102050000 -0600" stop="20250102090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250102090000 -0600" stop="20250102100000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250102100000 -0600" stop="20250102140000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250102140000 -0600" stop="20250102180000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250102180000 -0600" stop="20250102210000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
 </tv>
