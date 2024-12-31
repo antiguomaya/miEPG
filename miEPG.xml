@@ -1,53 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 30/12/2024 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 31/12/2024 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="TyC Sports">
     <display-name>TyC Sports</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png" />
   </channel>
-  <programme start="20241229010000 -0600" stop="20241229030000 -0600" channel="TyC Sports">
-    <title lang="es">Líbero</title>
-  </programme>
-  <programme start="20241229030000 -0600" stop="20241229040000 -0600" channel="TyC Sports">
-    <title lang="es">Uno Contra Uno</title>
-  </programme>
-  <programme start="20241229040000 -0600" stop="20241229043000 -0600" channel="TyC Sports">
-    <title lang="es">Upgrade Golf</title>
-  </programme>
-  <programme start="20241229043000 -0600" stop="20241229050000 -0600" channel="TyC Sports">
-    <title lang="es">Noveno Chukker</title>
-  </programme>
-  <programme start="20241229050000 -0600" stop="20241229060000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando Categorías</title>
-    <sub-title lang="es">Anuario Top Race V6 2024</sub-title>
-  </programme>
-  <programme start="20241229060000 -0600" stop="20241229070000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando Categorías</title>
-    <sub-title lang="es">Anuario TC 2000 2024</sub-title>
-  </programme>
-  <programme start="20241229070000 -0600" stop="20241229120000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241229120000 -0600" stop="20241229170000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241229170000 -0600" stop="20241229172000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241229172000 -0600" stop="20241229193000 -0600" channel="TyC Sports">
-    <title lang="es">Lanús vs. Boca</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241229193000 -0600" stop="20241229213000 -0600" channel="TyC Sports">
-    <title lang="es">CA River Plate vs. Banfield</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241229213000 -0600" stop="20241229230000 -0600" channel="TyC Sports">
-    <title lang="es">Show nacional</title>
-  </programme>
-  <programme start="20241229230000 -0600" stop="20241230020000 -0600" channel="TyC Sports">
-    <title lang="es">Promocional</title>
-    <sub-title lang="es">Boxeo de primera</sub-title>
-  </programme>
   <programme start="20241230020000 -0600" stop="20241230050000 -0600" channel="TyC Sports">
     <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
@@ -142,50 +98,6 @@
   </programme>
   <programme start="20250102180000 -0600" stop="20250102210000 -0600" channel="TyC Sports">
     <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241229010000 -0600" stop="20241229030000 -0600" channel="TyC Sports">
-    <title lang="es">Líbero</title>
-  </programme>
-  <programme start="20241229030000 -0600" stop="20241229040000 -0600" channel="TyC Sports">
-    <title lang="es">Uno Contra Uno</title>
-  </programme>
-  <programme start="20241229040000 -0600" stop="20241229043000 -0600" channel="TyC Sports">
-    <title lang="es">Upgrade Golf</title>
-  </programme>
-  <programme start="20241229043000 -0600" stop="20241229050000 -0600" channel="TyC Sports">
-    <title lang="es">Noveno Chukker</title>
-  </programme>
-  <programme start="20241229050000 -0600" stop="20241229060000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando Categorías</title>
-    <sub-title lang="es">Anuario Top Race V6 2024</sub-title>
-  </programme>
-  <programme start="20241229060000 -0600" stop="20241229070000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando Categorías</title>
-    <sub-title lang="es">Anuario TC 2000 2024</sub-title>
-  </programme>
-  <programme start="20241229070000 -0600" stop="20241229120000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241229120000 -0600" stop="20241229170000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241229170000 -0600" stop="20241229172000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241229172000 -0600" stop="20241229193000 -0600" channel="TyC Sports">
-    <title lang="es">Lanús vs. Boca</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241229193000 -0600" stop="20241229213000 -0600" channel="TyC Sports">
-    <title lang="es">CA River Plate vs. Banfield</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20241229213000 -0600" stop="20241229230000 -0600" channel="TyC Sports">
-    <title lang="es">Show nacional</title>
-  </programme>
-  <programme start="20241229230000 -0600" stop="20241230020000 -0600" channel="TyC Sports">
-    <title lang="es">Promocional</title>
-    <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
   <programme start="20241230020000 -0600" stop="20241230050000 -0600" channel="TyC Sports">
     <title lang="es">Los Especiales de TyC Sports</title>
