@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 01/01/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 02/01/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="TyC Sports">
     <display-name>TyC Sports</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png" />
   </channel>
-  <programme start="20241231010000 -0600" stop="20241231030000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231030000 -0600" stop="20241231050000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231050000 -0600" stop="20241231090000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231090000 -0600" stop="20241231130000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231130000 -0600" stop="20241231170000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231170000 -0600" stop="20241231200000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231200000 -0600" stop="20241231220000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231220000 -0600" stop="20250101000000 -0600" channel="TyC Sports">
-    <title lang="es">Independiente vs. Gimnasia (LP)</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20250101000000 -0600" stop="20250101020000 -0600" channel="TyC Sports">
-    <title lang="es">Rosario Central vs. San Lorenzo</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
   <programme start="20250101020000 -0600" stop="20250101040000 -0600" channel="TyC Sports">
     <title lang="es">Belgrano vs. Instituto</title>
     <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
@@ -152,35 +123,6 @@
   </programme>
   <programme start="20250104165500 -0600" stop="20250104190000 -0600" channel="TyC Sports">
     <title lang="es">Fútbol Conmebol Copa Libertadores Femenina</title>
-  </programme>
-  <programme start="20241231010000 -0600" stop="20241231030000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231030000 -0600" stop="20241231050000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231050000 -0600" stop="20241231090000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231090000 -0600" stop="20241231130000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231130000 -0600" stop="20241231170000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231170000 -0600" stop="20241231200000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231200000 -0600" stop="20241231220000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20241231220000 -0600" stop="20250101000000 -0600" channel="TyC Sports">
-    <title lang="es">Independiente vs. Gimnasia (LP)</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
-  </programme>
-  <programme start="20250101000000 -0600" stop="20250101020000 -0600" channel="TyC Sports">
-    <title lang="es">Rosario Central vs. San Lorenzo</title>
-    <sub-title lang="es">Fútbol Argentino Primera División</sub-title>
   </programme>
   <programme start="20250101020000 -0600" stop="20250101040000 -0600" channel="TyC Sports">
     <title lang="es">Belgrano vs. Instituto</title>
