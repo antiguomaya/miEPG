@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 05/01/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 06/01/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="TyC Sports">
     <display-name>TyC Sports</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png" />
   </channel>
-  <programme start="20250104003000 -0600" stop="20250104053000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104053000 -0600" stop="20250104063000 -0600" channel="TyC Sports">
-    <title lang="es">Uno Contra Uno</title>
-  </programme>
-  <programme start="20250104063000 -0600" stop="20250104103000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104103000 -0600" stop="20250104143000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104143000 -0600" stop="20250104190000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104190000 -0600" stop="20250104210000 -0600" channel="TyC Sports">
-    <title lang="es">Anuario 2024</title>
-    <sub-title lang="es">Boxeo de primera</sub-title>
-  </programme>
-  <programme start="20250104210000 -0600" stop="20250104230000 -0600" channel="TyC Sports">
-    <title lang="es">Anuario 2024</title>
-    <sub-title lang="es">Boxeo de primera</sub-title>
-  </programme>
-  <programme start="20250104230000 -0600" stop="20250104233000 -0600" channel="TyC Sports">
-    <title lang="es">Upgrade Golf</title>
-  </programme>
-  <programme start="20250104233000 -0600" stop="20250105000000 -0600" channel="TyC Sports">
-    <title lang="es">Noveno Chukker</title>
-  </programme>
-  <programme start="20250105000000 -0600" stop="20250105050000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera División</title>
-  </programme>
   <programme start="20250105050000 -0600" stop="20250105053000 -0600" channel="TyC Sports">
     <title lang="es">Tenis United Cup 2025</title>
   </programme>
@@ -126,38 +94,6 @@
   </programme>
   <programme start="20250107170000 -0600" stop="20250107190000 -0600" channel="TyC Sports">
     <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104003000 -0600" stop="20250104053000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104053000 -0600" stop="20250104063000 -0600" channel="TyC Sports">
-    <title lang="es">Uno Contra Uno</title>
-  </programme>
-  <programme start="20250104063000 -0600" stop="20250104103000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104103000 -0600" stop="20250104143000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104143000 -0600" stop="20250104190000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250104190000 -0600" stop="20250104210000 -0600" channel="TyC Sports">
-    <title lang="es">Anuario 2024</title>
-    <sub-title lang="es">Boxeo de primera</sub-title>
-  </programme>
-  <programme start="20250104210000 -0600" stop="20250104230000 -0600" channel="TyC Sports">
-    <title lang="es">Anuario 2024</title>
-    <sub-title lang="es">Boxeo de primera</sub-title>
-  </programme>
-  <programme start="20250104230000 -0600" stop="20250104233000 -0600" channel="TyC Sports">
-    <title lang="es">Upgrade Golf</title>
-  </programme>
-  <programme start="20250104233000 -0600" stop="20250105000000 -0600" channel="TyC Sports">
-    <title lang="es">Noveno Chukker</title>
-  </programme>
-  <programme start="20250105000000 -0600" stop="20250105050000 -0600" channel="TyC Sports">
-    <title lang="es">Fútbol argentino Primera División</title>
   </programme>
   <programme start="20250105050000 -0600" stop="20250105053000 -0600" channel="TyC Sports">
     <title lang="es">Tenis United Cup 2025</title>
