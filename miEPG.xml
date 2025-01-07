@@ -1,34 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 06/01/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 07/01/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="TyC Sports">
     <display-name>TyC Sports</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png" />
   </channel>
-  <programme start="20250105050000 -0600" stop="20250105053000 -0600" channel="TyC Sports">
-    <title lang="es">Tenis United Cup 2025</title>
-  </programme>
-  <programme start="20250105053000 -0600" stop="20250105070000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250105070000 -0600" stop="20250105080000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando</title>
-  </programme>
-  <programme start="20250105080000 -0600" stop="20250105120000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250105120000 -0600" stop="20250105160000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250105160000 -0600" stop="20250105210000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250105210000 -0600" stop="20250105230000 -0600" channel="TyC Sports">
-    <title lang="es">Especial 30 años: Castaño vs. Charlo</title>
-    <sub-title lang="es">Boxeo de primera</sub-title>
-  </programme>
-  <programme start="20250105230000 -0600" stop="20250106010000 -0600" channel="TyC Sports">
-    <title lang="es">TyC Sports verano</title>
-  </programme>
   <programme start="20250106010000 -0600" stop="20250106030000 -0600" channel="TyC Sports">
     <title lang="es">TyC Sports verano</title>
   </programme>
@@ -60,7 +35,8 @@
     <title lang="es">León, reflejos de una pasión</title>
   </programme>
   <programme start="20250106210000 -0600" stop="20250106220000 -0600" channel="TyC Sports">
-    <title lang="es">Boxeo de Primera</title>
+    <title lang="es">30 años: Chávez vs. Melián</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
   <programme start="20250106220000 -0600" stop="20250107000000 -0600" channel="TyC Sports">
     <title lang="es">TyC Sports verano</title>
@@ -95,30 +71,126 @@
   <programme start="20250107170000 -0600" stop="20250107190000 -0600" channel="TyC Sports">
     <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
-  <programme start="20250105050000 -0600" stop="20250105053000 -0600" channel="TyC Sports">
-    <title lang="es">Tenis United Cup 2025</title>
+  <programme start="20250107190000 -0600" stop="20250107210000 -0600" channel="TyC Sports">
+    <title lang="es">Ferro vs. Oberá</title>
+    <sub-title lang="es">Baloncesto Argentino Liga Nacional</sub-title>
   </programme>
-  <programme start="20250105053000 -0600" stop="20250105070000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
+  <programme start="20250107210000 -0600" stop="20250107220000 -0600" channel="TyC Sports">
+    <title lang="es">León, reflejos de una pasión</title>
   </programme>
-  <programme start="20250105070000 -0600" stop="20250105080000 -0600" channel="TyC Sports">
-    <title lang="es">Carburando</title>
-  </programme>
-  <programme start="20250105080000 -0600" stop="20250105120000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250105120000 -0600" stop="20250105160000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250105160000 -0600" stop="20250105210000 -0600" channel="TyC Sports">
-    <title lang="es">Los Especiales de TyC Sports</title>
-  </programme>
-  <programme start="20250105210000 -0600" stop="20250105230000 -0600" channel="TyC Sports">
-    <title lang="es">Especial 30 años: Castaño vs. Charlo</title>
+  <programme start="20250107220000 -0600" stop="20250107230000 -0600" channel="TyC Sports">
+    <title lang="es">Grandes peleas: Jorge Castro vs. Derrick Harmon</title>
     <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
-  <programme start="20250105230000 -0600" stop="20250106010000 -0600" channel="TyC Sports">
+  <programme start="20250107230000 -0600" stop="20250108010000 -0600" channel="TyC Sports">
     <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108010000 -0600" stop="20250108030000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108030000 -0600" stop="20250108050000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108050000 -0600" stop="20250108070000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20250108070000 -0600" stop="20250108090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250108090000 -0600" stop="20250108110000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108110000 -0600" stop="20250108130000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108130000 -0600" stop="20250108150000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108150000 -0600" stop="20250108170000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108170000 -0600" stop="20250108190000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250108190000 -0600" stop="20250108210000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108210000 -0600" stop="20250108220000 -0600" channel="TyC Sports">
+    <title lang="es">Especiales 30 años: Moli vs. Dascola</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
+  </programme>
+  <programme start="20250108220000 -0600" stop="20250109000000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109000000 -0600" stop="20250109020000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109020000 -0600" stop="20250109030000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250109030000 -0600" stop="20250109050000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109050000 -0600" stop="20250109070000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20250109070000 -0600" stop="20250109090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250109090000 -0600" stop="20250109110000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109110000 -0600" stop="20250109130000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109130000 -0600" stop="20250109150000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109150000 -0600" stop="20250109170000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109170000 -0600" stop="20250109190000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250109190000 -0600" stop="20250109210000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109210000 -0600" stop="20250109220000 -0600" channel="TyC Sports">
+    <title lang="es">Especiales 30 años: Hamed vs. Kelley</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
+  </programme>
+  <programme start="20250109220000 -0600" stop="20250110000000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110000000 -0600" stop="20250110020000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110020000 -0600" stop="20250110030000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250110030000 -0600" stop="20250110050000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110050000 -0600" stop="20250110070000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20250110070000 -0600" stop="20250110090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250110090000 -0600" stop="20250110110000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110110000 -0600" stop="20250110130000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110130000 -0600" stop="20250110150000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110150000 -0600" stop="20250110170000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110170000 -0600" stop="20250110190000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
   <programme start="20250106010000 -0600" stop="20250106030000 -0600" channel="TyC Sports">
     <title lang="es">TyC Sports verano</title>
@@ -151,7 +223,8 @@
     <title lang="es">León, reflejos de una pasión</title>
   </programme>
   <programme start="20250106210000 -0600" stop="20250106220000 -0600" channel="TyC Sports">
-    <title lang="es">Boxeo de Primera</title>
+    <title lang="es">30 años: Chávez vs. Melián</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
   </programme>
   <programme start="20250106220000 -0600" stop="20250107000000 -0600" channel="TyC Sports">
     <title lang="es">TyC Sports verano</title>
@@ -184,6 +257,127 @@
     <title lang="es">TyC Sports verano</title>
   </programme>
   <programme start="20250107170000 -0600" stop="20250107190000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250107190000 -0600" stop="20250107210000 -0600" channel="TyC Sports">
+    <title lang="es">Ferro vs. Oberá</title>
+    <sub-title lang="es">Baloncesto Argentino Liga Nacional</sub-title>
+  </programme>
+  <programme start="20250107210000 -0600" stop="20250107220000 -0600" channel="TyC Sports">
+    <title lang="es">León, reflejos de una pasión</title>
+  </programme>
+  <programme start="20250107220000 -0600" stop="20250107230000 -0600" channel="TyC Sports">
+    <title lang="es">Grandes peleas: Jorge Castro vs. Derrick Harmon</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
+  </programme>
+  <programme start="20250107230000 -0600" stop="20250108010000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108010000 -0600" stop="20250108030000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108030000 -0600" stop="20250108050000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108050000 -0600" stop="20250108070000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20250108070000 -0600" stop="20250108090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250108090000 -0600" stop="20250108110000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108110000 -0600" stop="20250108130000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108130000 -0600" stop="20250108150000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108150000 -0600" stop="20250108170000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108170000 -0600" stop="20250108190000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250108190000 -0600" stop="20250108210000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250108210000 -0600" stop="20250108220000 -0600" channel="TyC Sports">
+    <title lang="es">Especiales 30 años: Moli vs. Dascola</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
+  </programme>
+  <programme start="20250108220000 -0600" stop="20250109000000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109000000 -0600" stop="20250109020000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109020000 -0600" stop="20250109030000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250109030000 -0600" stop="20250109050000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109050000 -0600" stop="20250109070000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20250109070000 -0600" stop="20250109090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250109090000 -0600" stop="20250109110000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109110000 -0600" stop="20250109130000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109130000 -0600" stop="20250109150000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109150000 -0600" stop="20250109170000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109170000 -0600" stop="20250109190000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250109190000 -0600" stop="20250109210000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250109210000 -0600" stop="20250109220000 -0600" channel="TyC Sports">
+    <title lang="es">Especiales 30 años: Hamed vs. Kelley</title>
+    <sub-title lang="es">Boxeo de primera</sub-title>
+  </programme>
+  <programme start="20250109220000 -0600" stop="20250110000000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110000000 -0600" stop="20250110020000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110020000 -0600" stop="20250110030000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250110030000 -0600" stop="20250110050000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110050000 -0600" stop="20250110070000 -0600" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20250110070000 -0600" stop="20250110090000 -0600" channel="TyC Sports">
+    <title lang="es">Los Especiales de TyC Sports</title>
+  </programme>
+  <programme start="20250110090000 -0600" stop="20250110110000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110110000 -0600" stop="20250110130000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110130000 -0600" stop="20250110150000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110150000 -0600" stop="20250110170000 -0600" channel="TyC Sports">
+    <title lang="es">TyC Sports verano</title>
+  </programme>
+  <programme start="20250110170000 -0600" stop="20250110190000 -0600" channel="TyC Sports">
     <title lang="es">Los Especiales de TyC Sports</title>
   </programme>
 </tv>
